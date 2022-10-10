@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T11:59:38.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tybi8xZJICMX1cFIhdCE" version="20.4.0" type="github"><diagram name="Page-1" id="ff44883e-f642-bcb2-894b-16b3d25a3f0b">7VtJc9owFP41HJOxFi8cA1naQ2c6k0PPii3AU2MxRgTSX1/ZSGBZotDgYLGQQ9CzFvt97/v8tNBDw+nqpSCzyQ+W0KwHvWTVQ489CAH2IvGvtHysLSGWhnGRJrLS1vCa/qHS6EnrIk3oXKvIGct4OtONMctzGnPNRoqCLfVqI5bpo87ImBqG15hkynrvb+2/0oRPpB0E/e2FbzQdT+TgEQzWF95I/HtcsEUuR8xZTtdXpkR1I59yPiEJW9ZM6KmHhgVjfP1tuhrSrHSs8plqxz/UjfbQYMKnmSgA8bW6/LyjMTiksXiugua8Ptyu/kbeWxz3+8jDNBj55K5v9E8T4VRZrNyABvGieKeJHLE2+JyTgss4EEGABjRPHkogRTnOyHyexmvjc5qpNqJUbzHnBftNhyxjRTU88qrP5oqCsXzsEcs3o0HrsytvsUURU/sDq8AkxZhyexW4rlI6otat9OcLZVPKiw9RoaAZ4em7HpNEBvF4U2+LhvgiATkMHCD5906yhRyFV74QYckM4DhdcR2fgs7TP+StqlC6dMbSnFf35w96/qOwkCwd5yVawoVUIDB4pwVPBaUe5IVpmiRl+0FG3mg22NBEISYjpAYN9KzQ7Ai8cjy66lnkQd63xjLN/bKVdw99LIkvhetOFg8GSHb+s/TPtue7SO8V+noPbDSaixhqAry5xc9hHrTNyH3k64JiyBmKqTjUKQYcopgQxVH1+RTPVDwdT7Q7794LMWpwohWm+aHeKzoF0QzggfmmFl2I7KUEZzlJOX2dkSrolyKBasRBiVjFyIpYKkcAtldcUH0M/mEdX+TZgmckyFwPDL/8+xdRDdx34gtCT0PBV+XlNpWKpGlST6K8L6ClBYozU0G4XwUDV1RQ5agNFUSXo4LqAVtIN8Am3ThS9ZpS2uDR16ieOaG4QGL5zhAL24l1Iaza9Y75DKuCEFqTgGOTeB9o3eITkAwaoFsWAU6ZWoCOUwvsUmoRnr0Cov0KiJ1RwNCqgPhyUgv1gG1MsABSAqVUMGhHBUFzhtXo4kt0EBnQo+vWwaChg5HfoQ76Z6+DeL8ORs7ooEmGC5ti+S3qIAbNhSbQig6C5pLuKWTQnAP41y2DACCH8kF49jro79fB0BkdVDLRWHC/EBFUU792VtthI2trZ93JEMFT7GuZsAfXLYIR1DVw448uNBCfvQYG+zXQnTmxuUDk2r7+kTKoUp42ZBDhqCFY7eSCsN9BLhgYyOPrlsHQpaVBdPYyGO6XQXemxCYZLmxpUM3525BBGPi6DMJWVLBxdOoUGmiuCIfXrYEAOJQLmmcOo27R6fxcDO6784qCJjwPB0il7mt1aLPmM2k6XDBtuP8D7GOPj/7/lmNjiSm0gIYtoDVPYbQCmnnIcHADzQIa8nXQAtgdaCp+aqANb6DZNrWwQ6CZpzofb6DZpl2eDhrGHYJmLoc83UCzgNZ36J2GzP3M5xtoNtBckkdzK/LlBpoNtEbKj0CHoJlbJ99uoNkmapsZlwsvNXNx6/sNNRtqG259vUCK4vaHuuuVrO1PodHTXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-10T13:39:28.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="F7PtrxB3obifVlbtB7lj" version="20.4.0" type="github">
+  <diagram name="Page-1" id="ff44883e-f642-bcb2-894b-16b3d25a3f0b">
+    <mxGraphModel dx="1670" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-2" target="81_5kUNXRZ2Hv6WBfF8S-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-2" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;黑豆豆粕&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;strokeWidth=5;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-3" target="81_5kUNXRZ2Hv6WBfF8S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-3" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;粉碎&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-4" target="81_5kUNXRZ2Hv6WBfF8S-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-4" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;混合&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.75" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-5" target="81_5kUNXRZ2Hv6WBfF8S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-5" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;润水蒸料&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-6" target="81_5kUNXRZ2Hv6WBfF8S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-6" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;冷却&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-7" target="81_5kUNXRZ2Hv6WBfF8S-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-7" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;制曲&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="906.75" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-8" target="81_5kUNXRZ2Hv6WBfF8S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-8" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;成曲&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-9" target="81_5kUNXRZ2Hv6WBfF8S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-9" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;出曲&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-10" target="81_5kUNXRZ2Hv6WBfF8S-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-10" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;发酵&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1376.75" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-11" target="81_5kUNXRZ2Hv6WBfF8S-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-11" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;成熟酱醅&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1376.75" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-12" target="81_5kUNXRZ2Hv6WBfF8S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-12" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;盐水&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1376.75" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-13" target="81_5kUNXRZ2Hv6WBfF8S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-13" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;制曲&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.75" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-18" target="81_5kUNXRZ2Hv6WBfF8S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-18" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;浸出淋油&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1376.75" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-19" target="81_5kUNXRZ2Hv6WBfF8S-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-19" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;调配&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1376.75" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-20" target="81_5kUNXRZ2Hv6WBfF8S-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-20" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;加热灭菌&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1376.75" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-22" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;成品&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="906.75" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-23" target="81_5kUNXRZ2Hv6WBfF8S-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-23" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;包装&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-24" target="81_5kUNXRZ2Hv6WBfF8S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-24" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;沉淀澄清&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-25" target="81_5kUNXRZ2Hv6WBfF8S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-25" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;粉碎过筛&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.75" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-26" target="81_5kUNXRZ2Hv6WBfF8S-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-26" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;海带&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-27" target="81_5kUNXRZ2Hv6WBfF8S-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-27" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;菌种&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=24;" edge="1" parent="1" source="81_5kUNXRZ2Hv6WBfF8S-28" target="81_5kUNXRZ2Hv6WBfF8S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81_5kUNXRZ2Hv6WBfF8S-28" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;种曲&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="906.75" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
