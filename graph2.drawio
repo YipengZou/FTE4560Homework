@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T13:55:38.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lp05uaaPtvLDZmldCr5U" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-17T14:00:12.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wHOz3V_QvRk_5pzoj_Gs" version="20.4.1" type="github" pages="2">
   <diagram id="1ZSwXiSNdYYqJziJmsc9" name="Page-1">
     <mxGraphModel dx="2004" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="umMzKI3uIAlJp1IiMN67" name="Page-2">
-    <mxGraphModel dx="1055" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1431" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,13 +48,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-6" value="50.895t 黑豆豆粕" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+        <mxCell id="Tzc9XN7exIwDATRf605q-6" value="黑豆豆粕50.895t&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
           <mxGeometry x="20" y="180" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-7" value="33.930t 麸皮" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+        <mxCell id="Tzc9XN7exIwDATRf605q-7" value="麸皮33.930t&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-8" value="78.520t 水" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+        <mxCell id="Tzc9XN7exIwDATRf605q-8" value="水78.520t&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
           <mxGeometry x="20" y="100" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=17;" edge="1" parent="1" source="Tzc9XN7exIwDATRf605q-10" target="Tzc9XN7exIwDATRf605q-2">
@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="15" y="284.5799999999999" as="sourcePoint" />
+            <mxPoint x="20" y="284" as="sourcePoint" />
             <mxPoint x="140" y="284.5799999999999" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-16" value="45.2kg 米曲霉种菌" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+        <mxCell id="Tzc9XN7exIwDATRf605q-16" value="米曲霉种菌45.2kg&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
           <mxGeometry x="20" y="60" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-17" value="成熟菌醅254.28t" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=12;" edge="1" parent="1" source="Tzc9XN7exIwDATRf605q-18" target="Tzc9XN7exIwDATRf605q-28">
@@ -103,31 +103,36 @@
         <mxCell id="Tzc9XN7exIwDATRf605q-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;配置盐水&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" edge="1" parent="1">
+        <mxCell id="Tzc9XN7exIwDATRf605q-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;entryX=-0.014;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Tzc9XN7exIwDATRf605q-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="376.5799999999999" as="sourcePoint" />
-            <mxPoint x="300" y="376.5799999999999" as="targetPoint" />
+            <mxPoint x="20" y="376.5799999999999" as="sourcePoint" />
+            <mxPoint x="145" y="376.5799999999999" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-22" value="食盐14.82t" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
-          <mxGeometry x="176" y="355" width="120" height="20" as="geometry" />
+        <mxCell id="Tzc9XN7exIwDATRf605q-22" value="食盐14.82t" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+          <mxGeometry x="21" y="355" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-23" value="水105.3t" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
-          <mxGeometry x="176" y="377" width="120" height="20" as="geometry" />
+        <mxCell id="Tzc9XN7exIwDATRf605q-23" value="水105.3t" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+          <mxGeometry x="21" y="377" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-24" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;盐水120.12t&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
           <mxGeometry x="480" y="354" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-25" value="生酱油444.6t" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=12;" edge="1" parent="1" source="Tzc9XN7exIwDATRf605q-28" target="Tzc9XN7exIwDATRf605q-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="525" />
+              <mxPoint x="630" y="525" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tzc9XN7exIwDATRf605q-28" target="Tzc9XN7exIwDATRf605q-37">
+        <mxCell id="Tzc9XN7exIwDATRf605q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.105;exitY=1.03;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Tzc9XN7exIwDATRf605q-28" target="Tzc9XN7exIwDATRf605q-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="625" y="510" />
-              <mxPoint x="520" y="510" />
+              <mxPoint x="599" y="500" />
+              <mxPoint x="520" y="500" />
               <mxPoint x="520" y="605" />
             </Array>
           </mxGeometry>
@@ -142,16 +147,16 @@
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="465.5799999999999" as="sourcePoint" />
+            <mxPoint x="20" y="467" as="sourcePoint" />
             <mxPoint x="580" y="465.5799999999999" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-30" value="食盐26.78t" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
-          <mxGeometry x="456" y="444" width="120" height="20" as="geometry" />
+        <mxCell id="Tzc9XN7exIwDATRf605q-30" value="食盐26.78t" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+          <mxGeometry x="20" y="444" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-31" value="水344.5t" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
-          <mxGeometry x="456" y="466" width="120" height="20" as="geometry" />
+        <mxCell id="Tzc9XN7exIwDATRf605q-31" value="水344.5t" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+          <mxGeometry x="20" y="466" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=12;" edge="1" parent="1" source="Tzc9XN7exIwDATRf605q-33" target="Tzc9XN7exIwDATRf605q-34">
           <mxGeometry relative="1" as="geometry" />
@@ -162,13 +167,15 @@
         <mxCell id="Tzc9XN7exIwDATRf605q-34" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;包装车间&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
           <mxGeometry x="870" y="540" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tzc9XN7exIwDATRf605q-35" value="酱泥144.6t" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tzc9XN7exIwDATRf605q-36" target="Tzc9XN7exIwDATRf605q-28">
-          <mxGeometry x="-0.3793" relative="1" as="geometry">
-            <mxPoint x="815" y="460" as="targetPoint" />
+        <mxCell id="Tzc9XN7exIwDATRf605q-35" value="酱泥144.6t" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;fontSize=12;" edge="1" parent="1">
+          <mxGeometry x="0.0082" y="-1" relative="1" as="geometry">
+            <mxPoint x="720" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="815" y="465" />
+              <mxPoint x="720" y="540" />
+              <mxPoint x="720" y="480" />
             </Array>
             <mxPoint as="offset" />
+            <mxPoint x="720" y="540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-36" value="一级酱油300t" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
@@ -176,6 +183,9 @@
         </mxCell>
         <mxCell id="Tzc9XN7exIwDATRf605q-37" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;卖给有机肥厂商&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
           <mxGeometry x="870" y="590" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JkLXAYLfi1IC5tboZUzf-1" value="干海带28.275t" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
